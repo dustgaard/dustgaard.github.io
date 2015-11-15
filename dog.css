@@ -1,0 +1,96 @@
+body {
+  width: 900px;
+  background-color: white;
+  margin: 0 auto;
+}
+header {
+  height:50px;
+  margin-top: 0px;
+
+}
+h1{
+
+}
+nav {
+  float: left;
+  margin-bottom: 18px;
+}
+nav ul {
+  padding: 0px;
+  float: left;
+  list-style-type: none;
+}
+nav li {
+  float: left;
+}
+nav li a {
+  display: block;
+  height:25px;
+  padding: 9px 18px 3px 18px;
+  vertical-align: middle;
+  background-color: lightgray;
+  border-radius: 2px 12px 2px;
+  margin-right: 10px;
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+  color:blue;
+}
+a:hover{
+  color:blue;
+  text-decoration: underline;
+}
+
+a:visited{
+  color:purple;
+}
+.main{
+  width:680px;
+  float:left;
+}
+section{
+  width:680px;
+  float:left;
+  margin-bottom: 35px;
+
+}
+article{
+  float:left;
+  width:650px;
+  border-style: ridge;
+  border-width: thick;
+  border-radius: 8px 40px 8px;
+  border-color: green;
+  margin-bottom: 15px;
+  word-wrap: normal;
+  padding-left: 24px;
+  padding-right: 8px;
+  padding-bottom: 24px;
+
+}
+
+
+h2{
+  padding-left:20px;
+}
+
+
+#navigation{
+  width:200px;
+  float:right ;
+  display:inline;
+  background-color: lightgray;
+  border-radius: 4px 18px 4px;
+}
+
+.foot{
+  width:900px;
+  height:45px;
+  float:left;
+  background-color: green;
+  border-radius: 18px 4px 18px;
+  padding-top:22px;
+  align-content: center;
+
+}

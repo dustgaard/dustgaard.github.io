@@ -41,8 +41,9 @@ html {
     section {
         width: 73%;
         display: inline-block;
-        float: right;
+        float: left;
         text-align: center;
+
     }
     aside {
         width: 17%;
